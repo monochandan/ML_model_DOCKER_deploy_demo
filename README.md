@@ -1,7 +1,7 @@
-My firts ML model (Iris dataset) deployment using docker
+#### ML model (Iris dataset) deployment using docker
 
-fastapi
-joblib
-numpy
-json
-request
+- fastapi
+- joblib
+- numpy
+- json
+- request
